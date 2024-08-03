@@ -1,12 +1,13 @@
+
 <p align="center">
   <img src="images/Banner_Image.webp" width="600" height="350" alt="header-img" />
 </p>
+<h1 align="center">Hi👋, I'm Bittu Kumar </h1>
 
 
 
 
 
-## Hi👋, I'm Bittu Kumar  
 
 
 
