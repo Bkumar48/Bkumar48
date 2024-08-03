@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="images/Banner_image.webp" width="500" height="300" alt="header-img" />
+</p>
+
+
+
+
+
 ## Hi👋, I'm Bittu Kumar  
 
 
