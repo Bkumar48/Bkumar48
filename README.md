@@ -4,6 +4,9 @@
 
 <h3 align="center">I'm a Software and Web Developer from India ❤</h3>
 
+![age](https://img.shields.io/badge/age-23-blue)
+![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
+![living](https://img.shields.io/badge/living-Chandigarh)
 
 
 
