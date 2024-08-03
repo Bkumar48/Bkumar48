@@ -6,7 +6,7 @@
 
 ![age](https://img.shields.io/badge/age-23-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
-![living](https://img.shields.io/badge/living-Chandigarh)
+![living](https://img.shields.io/badge/living-Chandigarh-3c9)
 
 
 
