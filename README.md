@@ -1,9 +1,8 @@
+![](./images/header_.png)
 
-<p align="center">
-  <img src="images/Banner_Image.webp" width="600" height="350" alt="header-img" />
-</p>
-<h1 align="center">Hi👋, I'm Bittu Kumar </h1>
+<h1 align="center">नमस्ते (Namaste), I'm Bittu Kumar!</h1>
 
+<h3 align="center">I'm a Software and Web Developer from India ❤</h3>
 
 
 
