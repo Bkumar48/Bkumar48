@@ -10,7 +10,7 @@ A 23 Y/o Junior Software and Web Developer from India. I'm passionate about Full
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Chandigarh-3c9 )
 
-<img width="50%" align="right" alt="Github Image" src="./images/download.svg" />
+<img width="500px" height="300px" align="right" alt="Github Image" src="./images/download.svg" />
 
 - 🌱 I'm on track for learning more about  <code>Data Structures</code>,<code>Algorithms</code>, <code>Blockchain </code>, <code>Web Devlopment</code> and <code>DevOps</code> 
 - 👯 I’m looking to collaborate on <code> Full-Stack web projects </code> and <code> Community encouragement progrmas </code>
