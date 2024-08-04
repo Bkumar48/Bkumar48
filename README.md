@@ -31,6 +31,7 @@ A 23 Y/o Junior Software and Web Developer from India. I'm passionate about Full
   <img src="./images/icons/next.png" height="60" width="60">
   <img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
   <img src="./images/icons/postgres.png" height="60" width="60">
+  <img src="./images/icons/sql.png" height="60" width="60">
 </div>
 
 
