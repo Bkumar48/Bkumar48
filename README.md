@@ -22,6 +22,11 @@ A 23 Y/o Junior Software and Web Developer from India. I'm passionate about Full
 
 <br/>
 
+## 👨‍💻 Languages and Tools
+
+<p alig="center">
+  <img src="./images" height="60" width="60">
+</p>
 
 
 
