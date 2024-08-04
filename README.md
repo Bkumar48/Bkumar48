@@ -24,8 +24,13 @@ A 23 Y/o Junior Software and Web Developer from India. I'm passionate about Full
 
 ## 👨‍💻 Languages and Tools
 
-<div alig="center">
+<div align="center">
   <img src="./images/icons/javascript-animation.gif" height="60" width="60">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
+  <img src="./images/icons/react-animation-transparent.gif" height="60" width="60">
+  <img src="./images/icons/next.png" height="60" width="60">
+  <img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
+  <img src="./images/icons/postgres.png" height="60" width="60">
 </div>
 
 
