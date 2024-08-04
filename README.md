@@ -4,9 +4,13 @@
 
 <h3 align="center">I'm a Software and Web Developer from India ❤</h3>
 
+A 23 Y/o Junior Software and Web Developer from India. I'm passionate about Full-Stack Web Development and trying to build some cool project. I am an Open Source enthusiast and currently trying to understand this community more. Always ready to collaborate on exiting and innovating ideas and projects. 
+
 ![age](https://img.shields.io/badge/age-23-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
-![living](https://img.shields.io/badge/living-Chandigarh-3c9)
+![living](https://img.shields.io/badge/living-Chandigarh-3c9 )
+
+<img width="50%" align="right" alt="Github Image" src="./images/download.svg" />
 
 
 
