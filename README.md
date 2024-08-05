@@ -33,23 +33,22 @@ A 23 Y/o Junior Software and Web Developer from India. I'm passionate about Full
   <img src="./images/icons/Jest.svg" height="60" width="60">
   <img src="./images/icons/Java.svg" height="60" width="60">
   <img src="./images/icons/icons8-bash.svg" height="60" width="60">
-  <br/>
   <img src="./images/icons/html.png" height="60" width="60">
   <img src="./images/icons/css.png" height="60" width="60">
+  <br/>
   <img src="./images/icons/icons8-bootstrap.svg" height="60" width="60">
   <img src="./images/icons/Sass.svg" height="60" width="60">
   <img src="./images/icons/Tailwind.svg" height="60" width="60">
   <img src="./images/icons/Figma.svg" height="60" width="60">
-  <br/>
   <img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
   <img src="./images/icons/postgres.png" height="60" width="60">
   <img src="./images/icons/sql.png" height="60" width="60">
   <img src="./images/icons/Docker.svg" height="60" width="60">
-  <br/>
   <img src="./images/icons/icons8-git.svg" height="60" width="60">
   <img src="./images/icons/icons8-github.svg" height="60" width="60">
   <br/>
   <img src="./images/icons/Linux.svg" height="60" width="60">
+  
   
 </div>
 
