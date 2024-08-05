@@ -31,6 +31,7 @@ A 23 Y/o Junior Software and Web Developer from India. I'm passionate about Full
   <img src="./images/icons/react-animation-transparent.gif" height="60" width="60">
   <img src="./images/icons/next.png" height="60" width="60">
   <img src="./images/icons/Jest.svg" height="60" width="60">
+  <img src="./images/icons/python-animation.gif" height="60" width="60">
   <img src="./images/icons/Java.svg" height="60" width="60">
   <img src="./images/icons/icons8-bash.svg" height="60" width="60">
   <img src="./images/icons/html.png" height="60" width="60">
@@ -46,59 +47,35 @@ A 23 Y/o Junior Software and Web Developer from India. I'm passionate about Full
   <img src="./images/icons/Docker.svg" height="60" width="60">
   <img src="./images/icons/icons8-git.svg" height="60" width="60">
   <img src="./images/icons/icons8-github.svg" height="60" width="60">
-  <br/>
   <img src="./images/icons/Linux.svg" height="60" width="60">
-  
-  
+
+</div>
+
+<br/>
+
+## 🏆 Github Status
+
+<img  src="https://github-readme-stats.vercel.app/api?username=Bkumar48&show_icons=true&theme=radical" width="45%" align="right" >
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Bkumar8&theme=dark" width="45%" >
+
+<br/>
+<div align="center">
+<img src="./images/footer.gif" />
+
+<br/>
+
+### Show some ❤️ by starring ⭐ some of the repositories!
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/bittu-kumar48/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/bkumar_48/?hl=en)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://github.com/Bkumar48)
+<br/>
+<a href="https://dev.to/Bkumar48"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
+
 </div>
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**Bkumar48/Bkumar48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
