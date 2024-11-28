@@ -13,7 +13,7 @@ A 23 Y/o Junior Software and Web Developer from India. I'm passionate about Full
 <img width="400px" height="300px" align="right" alt="Github Image" src="./images/download.svg" />
 
 - 🌱 I'm on track for learning more about  <code>Data Structures</code>,<code>Algorithms</code>, <code>Blockchain </code>, <code>Web Devlopment</code> and <code>DevOps</code> 
-- 👯 I’m looking to collaborate on <code> Full-Stack web projects </code> and <code> Community encouragement progrmas </code>
+- 👯 I’m looking to collaborate on <code> Full-Stack web projects </code> and <code> Community encouragement programs </code>
 - 🤔 I’m looking for help with <code>Data Structures</code>, <code>Algorithms</code> and <code>Web Dev stuff</code>
 - 💬 Ask me about <code>Java</code>, <code>Javascript</code>, <code>Python</code>, <code>DSA</code> and <code>Myself</code>
 - 📫 How to reach me: Let's connect on [LinkedIn](https://www.linkedin.com/in/bittu-kumar48)
